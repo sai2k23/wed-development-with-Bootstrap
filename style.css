@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+.img1 {
+    height: 80px;
+}
+.ksk-body {
+    background-image: url(https://res.cloudinary.com/dyawmtjis/image/upload/v1716372000/new_portfolio_background_by_larundel-d3n15qk_lzuxyg.jpg);
+}
+.item-nav {
+    color: #fff;
+    font-family: "Playfair Display", serif;
+}
+.item-nav:hover {
+    color: gold;
+}
+.nav-left {
+    margin-left: auto;
+}
+.box-left {
+    color: #fff;
+    height: 50px;
+    font-family: "Playfair Display", serif;
+    text-align: right;
+    padding-left: 100px;
+}
+.box-right {
+    color: #fff;
+    height: 300px;
+    font-family: "Playfair Display", serif;
+}
+.circle-img {
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.body-para {
+    font-family: "Playfair Display", serif;
+    font-size: 18px;
+}
+.body-section {
+    height: 85vh;
+}
+.about-h1 {
+    font-family: "Playfair Display", serif;
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+}
+.about-p {
+    font-family: "Playfair Display", serif;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.proj-items{
+    font-family: "Playfair Display", serif;
+    color: white; 
+    align-items: right;
+}
+.proj-items:hover {
+    color: salmon;
+}
+
+.proj-h1{
+    color: rgb(236, 209, 236);
+    text-align: center;
+ }
+ .proj-img {
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+    overflow: hidden;
+ }
+ .proj-p {
+    font-family: "Playfair Display", serif;
+    text-align: center;
+    padding-top: 20px;
+ }
+ .pro-p {
+    font-family: "Playfair Display", serif;
+    text-align: center;
+ }
+ .cont-h1 {
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+ }
+ .cont-p {
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+ }
+ .soc-media1 {
+    height: 50px;
+    padding-left: 600px;
+ }
+ .soc-media {
+    height: 50px;
+ }
